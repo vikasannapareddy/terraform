@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "84s-remote-state"
+    bucket = "84s-vikas-remote-state"
     key    = "vpc-test"
     region = "us-east-1"
     encrypt        = true

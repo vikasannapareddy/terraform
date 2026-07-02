@@ -1,5 +1,5 @@
 variable "security_group_ids" {
-    default = ["sg-0ccba06af95f41fdb"]
+    default = ["sg-0ba97e595a390cffc"]
 }
 
 variable "tags" {
